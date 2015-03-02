@@ -9,4 +9,4 @@
 5. Do not speak over others in the Mumble server.
 6. Be polite to others.
 
-(Index)[README.md]
+[Index](README.md)
