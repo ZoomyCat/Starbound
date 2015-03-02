@@ -1,4 +1,4 @@
-# Starbound & Mumble Server instructions.
+# Starbound & Mumble server setup instructions.
 
 ## Access the VPN.
 
