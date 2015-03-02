@@ -1,4 +1,4 @@
-# Starbound gamewithedge226 Server.
+# Starbound & Mumble Server instructions.
 
 ## Access the VPN.
 
